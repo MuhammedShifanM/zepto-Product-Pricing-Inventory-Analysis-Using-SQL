@@ -49,5 +49,7 @@ This project focuses on analyzing the retail dataset of Zepto using PostgreSQL t
 # Conclusion
 This project demonstrates how SQL can be used to transform raw retail data into actionable business insights. It highlights practical applications of PostgreSQL in inventory analysis, pricing strategy evaluation, and quick commerce retail analytics.
 
+![Nmap scan](https://github.com/MuhammedShifanM/zepto-Product-Pricing-Inventory-Analysis-Using-SQL/blob/main/image.png)
+
 # REPORT LINK
 https://github.com/MuhammedShifanM/zepto-Product-Pricing-Inventory-Analysis-Using-SQL
